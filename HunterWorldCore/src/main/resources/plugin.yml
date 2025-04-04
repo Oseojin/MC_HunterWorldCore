@@ -1,0 +1,4 @@
+name: HunterWorldCore
+version: '1.0'
+main: org.osj.hunterWorldCore.HunterWorldCore
+api-version: '1.21'
